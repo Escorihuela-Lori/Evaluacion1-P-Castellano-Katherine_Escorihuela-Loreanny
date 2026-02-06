@@ -6,6 +6,9 @@ use Illuminate\Http\Request;
 use App\Models\Propiedad;
 
 
+
+
+
 class PropiedadController extends Controller
 {
     public function index()
