@@ -3,7 +3,8 @@
 <p align="center">
 <h1>Universidad Politecnica Territorial del estado Aagua PNF en Informática</h1>
 
-<h2>integrantes. Loreanny Escorihuela Katherine Castellano</h2>    
+<h2>integrantes</h2>
+Loreanny Escorihuela <br/> Katherine Castellano    
 
 <h2>Enunciado asignado Enunciado 7: Inmobiliaria</h2>
 Columnas id Direccion:string<br/> MetrosCuadrados:float<br/> Habitaciones:integer<br/> Disponible:boolean
